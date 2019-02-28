@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Qiao et al., "Automated analysis of long-term grooming behavior in Drosophila using a k-nearest neighbors classifier". eLife, 2018. http://dx.doi.org/10.7554/eLife.34497
+
+
 # Drosophila-Grooming-Tracking
 
 Drosophila-Grooming-Tracking
